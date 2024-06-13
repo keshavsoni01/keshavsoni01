@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing engineering in Information Technology<br>
+Java Backend Engineer<br>
 
 
 ## 🌐 Socials:
