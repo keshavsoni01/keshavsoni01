@@ -1,10 +1,198 @@
-# 💫 About Me:
-Graduate Student - Arizona State University | Java Backend Engineer<br>
+<h1 align="center">Hi 👋, I'm Keshav Soni</h1>
 
+<h3 align="center">
+Java Backend Developer | MS IT Student at Arizona State University | Spring Boot | AWS | Microservices
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keshavsoni.01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshavsoni01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavsoni1622@gmail.com) 
+<p align="center">
+  <a href="mailto:ksoni13@asu.edu">
+    <img src="https://img.shields.io/badge/Email-ksoni13%40asu.edu-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/keshavsoni01">
+    <img src="https://img.shields.io/badge/LinkedIn-keshavsoni01-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/keshavsoni01">
+    <img src="https://img.shields.io/badge/GitHub-keshavsoni01-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
+## 👨‍💻 About Me
+
+I am a **Java Backend Developer** and graduate student pursuing a **Master of Science in Information Technology at Arizona State University** with a **4.0 GPA**.
+
+I have professional experience building production-grade backend systems using **Java, Spring Boot, REST APIs, PostgreSQL, AWS, JWT authentication, and microservice-oriented architectures**. My work focuses on designing secure, scalable, and maintainable backend applications that solve real-world business problems.
+
+- 🎓 MS in Information Technology at **Arizona State University**
+- 💼 Former **Java Developer at A Plus Tree Systems Pvt Ltd**
+- 🚀 Built backend systems for travel, workforce, booking, leave, and notification workflows
+- 🔐 Experienced with **Spring Security, JWT, AWS Cognito, and role-based access control**
+- ☁️ Hands-on with **AWS Lambda, Cognito, SNS, SQS, API Gateway, S3, CloudWatch, and RDS**
+- 🧠 Interested in **backend engineering, cloud architecture, distributed systems, and AI/ML applications**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven,gradle,hibernate" />
+</p>
+
+**Java, Spring Boot, Spring MVC, REST APIs, Hibernate/JPA, JDBC, Microservices, JWT, Spring Security, JUnit, Mockito, SOLID Principles**
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+**PostgreSQL, PostgreSQL JSONB, MySQL**
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,bitbucket,linux,postman" />
+</p>
+
+**AWS Lambda, Cognito, SNS, SQS, API Gateway, S3, CloudWatch, RDS, Docker, Git, GitHub, Bitbucket, Jira, ELK Stack**
+
+### Frontend & AI/ML
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tensorflow,opencv,flask" />
+</p>
+
+**React, HTML, CSS, Bootstrap, TensorFlow, CNN, OpenCV, Flask**
+
+---
+
+## 💼 Professional Experience
+
+### Java Developer  
+**A Plus Tree Systems Pvt Ltd** | Indore, India  
+**June 2023 – July 2025**
+
+- Developed backend systems for **Travart**, a travel and workforce management platform.
+- Built modules for **shift scheduling, leave management, itinerary planning, booking, and notifications**.
+- Reduced operational overhead by **30%** through automation of scheduling and leave workflows.
+- Designed service boundaries across **Shift, Leave, Itinerary, Booking, and Notification** domains.
+- Implemented secure authentication and authorization using **Spring Security, JWT, and AWS Cognito**.
+- Built an **AWS SNS-based notification pipeline** for Drivers, CSEs, FHEs, and Guides.
+- Used **PostgreSQL JSONB** for flexible leave management and partial cancellation logic.
+- Monitored backend services using **AWS CloudWatch and ELK Stack**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 [Travart – Travel & Workforce Management Platform](https://play.google.com/store/apps/details?id=com.sitatci.travart)
+
+A production-grade travel and workforce management platform used for scheduling, leave tracking, itinerary planning, booking, and notifications.
+
+**Tech Stack:** Java, Spring Boot, PostgreSQL, JSONB, AWS, REST APIs, Spring Security
+
+**Highlights:**
+- Built **25+ REST API endpoints** for Android and web clients.
+- Designed backend modules for Shift, Leave, Itinerary, Booking, and Notification workflows.
+- Supported flexible workforce and travel data modeling using **PostgreSQL JSONB**.
+- Implemented scalable APIs capable of handling **500+ concurrent users**.
+- Integrated AWS-based notification workflows for multiple user groups.
+
+---
+
+### 🔐 [Data Management System – Secure REST API](https://github.com/keshavsoni01/Data-Management-using-Spring-boot-with-JWT)
+
+A secure backend system for managing sensitive application data using Spring Boot and JWT authentication.
+
+**Tech Stack:** Java 8, Spring Boot, Spring Security, JWT, MySQL, Hibernate, JPA
+
+**Highlights:**
+- Built secure CRUD APIs for managing **10,000+ records**.
+- Protected **17+ API endpoints** using JWT authentication and role-based authorization.
+- Implemented layered architecture using Controller, Service, and Repository patterns.
+- Tested and documented APIs using Postman collections.
+
+---
+
+### 🚗 [Accident Detection System Using Flask](https://github.com/keshavsoni01/Accident-detection-system-using-Flask)
+
+A machine learning-based accident detection system that analyzes CCTV footage, live video streams, and uploaded images.
+
+**Tech Stack:** Python, Flask, TensorFlow, CNN, OpenCV, Twilio API
+
+**Highlights:**
+- Trained a CNN-based model on a Kaggle dataset with **91%+ accuracy**.
+- Built a real-time video analysis pipeline using OpenCV and Flask.
+- Processed video streams at approximately **30 FPS**.
+- Integrated Twilio API to send SMS alerts within **5 seconds** of accident detection.
+
+---
+
+## 📚 Research Publications
+
+- **Video Surveillance System with Unattended Objects Detection**  
+  Published on IEEE Xplore  
+  [View Publication](https://ieeexplore.ieee.org/document/10456108)
+
+- **Real-Time Emotion Detection System: A Hybrid Approach of Computer Vision and Machine Learning Techniques**  
+  Published by Springer Nature Singapore  
+  [View Publication](https://link.springer.com/chapter/10.1007/978-981-99-6547-2_32)
+
+---
+
+## 🏅 Certification
+
+- **AWS Certified Solutions Architect – Associate**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavsoni01&show_icons=true&theme=tokyonight" alt="Keshav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavsoni01&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsoni01&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 Currently Focused On
+
+- Advanced backend development with **Java and Spring Boot**
+- Cloud architecture using **AWS**
+- Microservices and distributed systems
+- Secure API design
+- System design and scalable backend architecture
+- Data structures and algorithms
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:ksoni13@asu.edu">
+    <img src="https://img.shields.io/badge/Email-ksoni13%40asu.edu-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/keshavsoni01">
+    <img src="https://img.shields.io/badge/LinkedIn-keshavsoni01-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/keshavsoni01">
+    <img src="https://img.shields.io/badge/GitHub-keshavsoni01-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building secure, scalable, and impactful backend systems.</i>
+</p>
